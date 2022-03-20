@@ -1,6 +1,6 @@
 {
-	"ip":"ult2.falix.gg",
-	"port": 37819,
+	"ip":"ult14.falix.gg",
+	"port": 29005,
 	"name": "afkbot",
 	"auto-night-skip":"true",
 	"login-enabled":"true",
